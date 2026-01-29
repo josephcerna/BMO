@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="768e72e8-faa2-4979-914c-435e131f670f" name="Changes" comment="Git push" />
+    <list default="true" id="768e72e8-faa2-4979-914c-435e131f670f" name="Changes" comment="Git push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -54,6 +58,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "jupyter.settings.vcs",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -74,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769720408541</updated>
       <workItem from="1769720409608" duration="842000" />
-      <workItem from="1769721270250" duration="304000" />
+      <workItem from="1769721270250" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="Git push">
       <option name="closed" value="true" />
@@ -108,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769721517617</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Git push">
+      <option name="closed" value="true" />
+      <created>1769721618933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769721618933</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +141,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Git push" />
     <option name="LAST_COMMIT_MESSAGE" value="Git push" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BMO_Companion$main.coverage" NAME="main Coverage Results" MODIFIED="1769721782811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
